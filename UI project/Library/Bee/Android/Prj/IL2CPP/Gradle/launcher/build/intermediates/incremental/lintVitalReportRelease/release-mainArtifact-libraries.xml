@@ -1,0 +1,19 @@
+<libraries>
+  <library
+      name="C:\Users\nullr\Downloads\UI project\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+      jars="C:\Users\nullr\Downloads\UI project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\348125d639364a4bc3f1c66e5d94fc14\transformed\out\jars\classes.jar;C:\Users\nullr\Downloads\UI project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\348125d639364a4bc3f1c66e5d94fc14\transformed\out\jars\libs\unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="C:\Users\nullr\Downloads\UI project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\348125d639364a4bc3f1c66e5d94fc14\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:C:\Users\nullr\Downloads\UI project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="C:\Users\nullr\Downloads\UI project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:C:\Users\nullr\Downloads\UI project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
+</libraries>
